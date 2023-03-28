@@ -1,1 +1,1 @@
-# rust-wasm-tutorial
+# wasm-tutorial
